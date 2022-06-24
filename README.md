@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arsyiazimin
 - 👀 I’m interested in software engineer
-- 🌱 I’m currently learning NodeJs, Angular, PHP
-- 📫 You can reach me on ig: arsyiazimin
+- 🌱 I’m currently learning NodeJs, Angular, Nest.js, Laravel, Yii, CodeIgniter
+- 📫 You can reach me on Linkedin: [arsyiazimin](https://www.linkedin.com/in/muh-arsyi-azimin/)
 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/arsyiazimin/arsyiazimin/blob/main/devcard.svg" width="400" alt="Arsyi Azimin's Dev Card"/></a>
 
