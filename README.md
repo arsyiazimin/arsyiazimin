@@ -1,6 +1,6 @@
 ### Hi there, I'm <a href="https://www.linkedin.com/in/muh-arsyi-azimin/" target="_blank">arsyiazimin</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--- - 👋 Hi, I’m @arsyiazimin --->
-- 👀 I’m interested in software engineer
+- 👀 I’m interested in software Developer
 - 🌱 I’m currently learning NodeJs, Angular, Nest.js, Laravel, Yii, CodeIgniter
 - 📫 You can reach me on Linkedin: [arsyiazimin](https://www.linkedin.com/in/muh-arsyi-azimin/)
 
