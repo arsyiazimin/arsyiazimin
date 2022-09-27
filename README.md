@@ -10,6 +10,8 @@
  <img height="180em" src="https://github-readme-stats-alpha-mauve.vercel.app/api/top-langs/?username=arsyiazimin&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> 
 </p>
 
+[![@azimin's Holopin board](https://holopin.io/api/user/board?user=azimin)](https://holopin.io/@azimin)
+
 <!---
 arsyiazimin/arsyiazimin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
