@@ -3,7 +3,7 @@
 - 👀 I’m interested in software Developer
 - 🌱 I’m currently learning NodeJs, Angular, Nest.js, Laravel, Yii, CodeIgniter
 - 📫 You can reach me on Linkedin: [arsyiazimin](https://www.linkedin.com/in/muh-arsyi-azimin/)
-- 🖥️ Reach me on my website: [Muh. Arsyi Azimin](https://muh-arsyi-azimin.vercel.app)
+- 🖥️ Reach me on my website: [Muh. Arsyi Azimin](https://arsyiazimin.dev)
 
   <!-- <a href="https://app.daily.dev/arsyiazimin"><img src="https://github.com/arsyiazimin/arsyiazimin/blob/main/devcard.svg" width="300" alt="Arsyi Azimin's Dev Card"/></a> -->
   <a href="https://app.daily.dev/arsyiazimin"><img src="https://api.daily.dev/devcards/v2/F5osRHN0R8zkl19SbYCig.png?type=default&r=iar" width="300" alt="Muh Arsyi Azimin's Dev Card"/></a> 
